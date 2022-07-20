@@ -1,0 +1,1 @@
+start cmd /K copy /Y \\192.168.0.2\Ini\arshinXML\arshinXML.py
